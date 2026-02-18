@@ -3,7 +3,7 @@
 <h1 align="center">Hey 👋 I'm Pavithran S</h1>
 
 <h3 align="center">
-🚀 Full-Stack Developer | ⚙️ System Design Enthusiast | ♟ Strategic Thinker
+ ⚙️ System Enthusiast | ♟ Strategic Thinker
 </h3>
 
 <p align="center">
