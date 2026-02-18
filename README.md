@@ -1,79 +1,72 @@
-<h1 align="center">Hi 👋 I'm Pavithran S</h1>
-<h3 align="center">Computer Science Engineer | Problem Solver</h3>
+<!-- ================= HEADER ================= -->
 
----
+<h1 align="center">Hey 👋 I'm Pavithran S</h1>
 
-### 💫 About Me
+<h3 align="center">
+🚀 Full-Stack Developer | ⚙️ System Design Enthusiast | ♟ Strategic Thinker
+</h3>
 
-- 🎓 Computer Science Engineering student at **Madras Institute of Technology, Anna University**
-- 💡 Builder mindset — I design and ship scalable, real-world applications
-- 🧠 Strong fundamentals in **Java, OOPS, Operating Systems, Data Structures, Computer Networks**
-- 🚀 Focused on full-stack development, backend architecture, and system design
-- 🛠 I enjoy debugging complex systems and optimizing performance
-- ♟ Outside tech: trading markets, competitive chess, and strategic thinking
-
----
-
-### 📬 Connect With Me
-
-📧 **Email:** pavithransureshbabu358@gmail.com  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pavithran-s3012" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Pavithran200412" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Code%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Pavithran-S/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://pavithran-s.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-1f1f1f?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;React+%2B+Spring+Boot+Engineer;Problem+Solver+%7C+System+Builder;Consistency+Over+Motivation" />
 </p>
 
----
-
-## 🚀 Tech Stack
-
-### 👨‍💻 Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-Primary%20Language-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Dynamic%20Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-UI%20Development-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SpringBoot-Backend%20Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pavithran200412&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
+<!-- ================= ABOUT ================= -->
 
-## 🗄️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-Relational-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+## 🧠 About Me
 
----
++ Computer Science Engineering @ MIT, Anna University
++ Strong in Java, OOPS, OS, DS, CN
++ Building scalable full-stack applications
++ Backend Architecture + REST APIs + JWT Auth
++ Debugging > Complaining
++ Always learning. Always shipping.
+<!-- ================= TECH STACK ================= -->
+⚙️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,js,react,spring,html,css,mysql,mongodb,git,github,postman,jira" /> </p>
+<!-- ================= GITHUB STATS ================= -->
+📊 GitHub Performance Dashboard
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pavithran200412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithran200412&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavithran200412&theme=tokyo-night&hide_border=true"/> </p>
+<!-- ================= TROPHIES ================= -->
+🏆 Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Pavithran200412&theme=tokyonight&no-frame=true&margin-w=10&row=1"/> </p>
+<!-- ================= PROJECTS ================= -->
+🚀 Featured Projects
+<table> <tr> <td width="50%">
+🔥 LeetCode Repository
+Structured DSA journey
+Pattern recognition mastery
+Optimized Java solutions
 
-## 🧰 Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-Project%20Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Collaboration-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+</td> <td width="50%">
+⚡ Solvexa
+Productivity toolkit
+Clean UI + Backend integration
+Performance-focused architecture
 
----
+</td> </tr> <tr> <td width="50%">
+🧪 INOEX
+Experimental tech builds
+Prototype architecture
+Innovation sandbox
 
-## 🌟 Featured Projects
+</td> <td width="50%">
+🌐 Portfolio
+Personal developer website
+Project showcase
+Technical growth tracker
 
-🔹 **Leetcode** – Structured algorithm practice with optimized solutions and pattern recognition  
-🔹 **Solvexa** – Productivity-focused solution toolkit designed for efficiency  
-🔹 **INOEX** – Experimental tech innovations and architecture prototypes  
-🔹 **Portfolio** – Personal website highlighting projects, technical depth, and growth trajectory  
-
----
-
-> ⚡ *Consistency compounds. Systems win over motivation.*
+</td> </tr> </table>
+<!-- ================= LEETCODE BADGE ================= -->
+🧩 Competitive Programming
+<p align="center"> <img src="https://leetcard.jacoblin.cool/Pavithran-S?theme=dark&font=Baloo&ext=contest" /> </p>
+<!-- ================= SNAKE ANIMATION ================= -->
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/Pavithran200412/Pavithran200412/output/github-contribution-grid-snake.svg" /> </p>
+<!-- ================= CONNECT ================= -->
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/pavithran-s3012"> <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Pavithran200412"> <img src="https://img.shields.io/badge/GitHub-Code%20Hub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://leetcode.com/u/Pavithran-S/"> <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://pavithran-s.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-View%20Projects-1f1f1f?style=for-the-badge&logo=firefox&logoColor=white"/> </a> </p>
+<h3 align="center"> ⚡ Systems beat motivation. Consistency beats intensity. </h3> ```
