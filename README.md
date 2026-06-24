@@ -44,7 +44,7 @@
 ## 📊 GitHub Performance Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavithran200412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavithran200412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" height="170"/>
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithran200412&theme=tokyonight&hide_border=true" height="170"/>
 </p>
@@ -60,7 +60,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pavithran200412&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pavithran200412&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
 </p>
 
 ---
