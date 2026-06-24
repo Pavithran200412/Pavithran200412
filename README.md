@@ -60,7 +60,12 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pavithran200412&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pavithran200412&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+<!-- Fallback: if trophies above don't load, the stats cards below still showcase your achievements -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithran200412&layout=compact&theme=tokyonight&hide_border=true&hide=c%2B%2B" alt="Top Languages"/>
 </p>
 
 ---
@@ -124,9 +129,11 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pavithran200412/Pavithran200412/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavithran200412/Pavithran200412/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavithran200412/Pavithran200412/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Pavithran200412/Pavithran200412/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
